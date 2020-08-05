@@ -2,8 +2,6 @@
 
 This app demonstrates how you can use EeasyBREAD in the real life application.
 
-# Install & Run sample app
-
 ### Requirements
 Make sure you've got the latest stable node and yarn installed.
 
