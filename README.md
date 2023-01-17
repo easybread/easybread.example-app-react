@@ -1,6 +1,6 @@
 # easybread.example-app-react
 
-This app demonstrates how you can use EeasyBREAD in the real life application.
+This app demonstrates how you can use EasyBREAD in the real life application.
 
 ### Requirements
 Make sure you've got the latest stable node and yarn installed.
